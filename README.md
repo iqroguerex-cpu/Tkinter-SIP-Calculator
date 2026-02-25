@@ -126,7 +126,7 @@ You will get approximately:
 
 ## 👨‍💻 Author
 
-**Chinmay V Chatradamath**
+**Chinmay V Chatradamath.**
 
 ---
 
